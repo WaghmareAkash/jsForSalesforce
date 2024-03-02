@@ -6,7 +6,7 @@ let acccountStatus;
 // do not reassign value to const as its value can not be changed
 /*
 use let instead of var,var should not be used.
-because it cn not identify the scope 
+because of issue in block scope and functional scope 
 */
 
 console.log(accountEmail);
