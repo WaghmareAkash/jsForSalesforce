@@ -10,4 +10,4 @@ because it cn not identify the scope
 */
 
 console.log(accountEmail);
-console.table([accountId, accountEmail, accountName, accountCity]);
+console.table([accountId, accountEmail, accountName, accountCity, acccountStatus]);
